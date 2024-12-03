@@ -1,0 +1,47 @@
+*{
+    font-family: "Parkinsans"
+}
+header{
+    background-color: #674658;
+}
+.nav-item a{ 
+    color: #A8718F;
+}
+.nav-item a:hover{
+    color: #EC9EC9;
+}
+.perfil{
+    color: #EC9EC9;
+}
+.nombre{
+    color: white;
+}
+footer{
+   background-color: #865A72; 
+}
+.boton-cv{
+    background-color: #A8718F;
+    color: antiquewhite;
+}
+.boton-correo{
+    background-color: #A8718F;
+}
+.boton-correo a:hover{
+    color: #EC9EC9;
+}
+.btn-proyecto{
+    background-color: #A8718F;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.card-title{
+    color: #674658;
+}
+#contacto h1{
+    color: #674658;
+}
+.footer p a{
+    text-decoration: none;
+}

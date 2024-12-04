@@ -16,7 +16,7 @@ ______________________________
 - HTML
 - CSS
 - JAVA SCRIPT
-  ![Proyecto](assets/Proyecto1.PNG)
+  ![Proyecto](assets/Proyecto1.png)
 
   ## ¡ESPERO QUE COLABOREMOS PRONTO!
   ### fernandasara123@hotmail.com
